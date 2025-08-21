@@ -1,2 +1,1 @@
-# https://videosai4394.pinet.com/validation-key.txt
 c47ab2d95b1329046c975105f2826404a25c37dd0bdf2ac68aa688dbb3a68628727fd55f950805cb3d6c8491371fcfd9b4a7bdaebf5ca9cfd4191b3a3bf11b28
